@@ -7,6 +7,6 @@
     "vite": "^5.3.4"
   },
   "scripts": {
-     "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   }
 }
